@@ -5,7 +5,6 @@
 ### AI / ML Engineer · Data Scientist · Python Developer
 
 [![Location](https://img.shields.io/badge/📍-Ahmedabad,_India-FF6B35?style=flat-square)](https://github.com/vatsalmehta09)
-[![Email](https://img.shields.io/badge/📧-vatsal9mehta@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vatsal9mehta@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-vatsalmehta09-181717?style=flat-square&logo=github)](https://github.com/vatsalmehta09)
 [![Profile Views](https://komarev.com/ghpvc/?username=vatsalmehta09&style=flat-square&color=blueviolet)](https://github.com/vatsalmehta09)
 
