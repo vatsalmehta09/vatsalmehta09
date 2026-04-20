@@ -6,7 +6,7 @@
 
 [![Location](https://img.shields.io/badge/📍-Ahmedabad,_India-FF6B35?style=flat-square)](https://github.com/vatsalmehta09)
 [![GitHub](https://img.shields.io/badge/GitHub-vatsalmehta09-181717?style=flat-square&logo=github)](https://github.com/vatsalmehta09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vatsal_Mehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vatsal_Mehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsalmehta09)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-vatsalmehta09-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/vatsalmehta09)
 [![Profile Views](https://komarev.com/ghpvc/?username=vatsalmehta09&style=flat-square&color=blueviolet)](https://github.com/vatsalmehta09)
 
