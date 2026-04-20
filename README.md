@@ -35,6 +35,7 @@ I'm an **AI/ML Engineer** based in Ahmedabad, India, building end-to-end intelli
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF0000?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🔍 RAG & Vector Stores
@@ -43,6 +44,12 @@ I'm an **AI/ML Engineer** based in Ahmedabad, India, building end-to-end intelli
 ![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+
+### 🏋️ Model Training
+![Model Training](https://img.shields.io/badge/Model_Training-6D28D9?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-3B4EFF?style=for-the-badge)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### 🧬 Fine-Tuning & Training
 ![Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-EC4899?style=for-the-badge)
@@ -79,6 +86,14 @@ I'm an **AI/ML Engineer** based in Ahmedabad, India, building end-to-end intelli
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
