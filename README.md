@@ -2,7 +2,7 @@
 
 # Hi there, I'm Vatsal Mehta 👋
 
-### AI / ML Engineer · GenAI Developer · Python Developer
+### AI / ML Engineer · GenAI Developer · Python Developer · B.Tech (AI Major)
 
 [![Location](https://img.shields.io/badge/📍-Ahmedabad,_India-FF6B35?style=flat-square)](https://github.com/vatsalmehta09)
 [![GitHub](https://img.shields.io/badge/GitHub-vatsalmehta09-181717?style=flat-square&logo=github)](https://github.com/vatsalmehta09)
@@ -37,6 +37,9 @@ I'm an **AI/ML Engineer** based in Ahmedabad, India, building end-to-end intelli
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF0000?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🔍 RAG & Vector Stores
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge)
@@ -57,6 +60,12 @@ I'm an **AI/ML Engineer** based in Ahmedabad, India, building end-to-end intelli
 ![PEFT](https://img.shields.io/badge/PEFT-FF6F00?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🔤 NLP
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
 
 ### 🎙️ Voice AI — TTS / STT
 ![edge-tts](https://img.shields.io/badge/Microsoft_edge--tts-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -79,6 +88,7 @@ I'm an **AI/ML Engineer** based in Ahmedabad, India, building end-to-end intelli
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -86,6 +96,9 @@ I'm an **AI/ML Engineer** based in Ahmedabad, India, building end-to-end intelli
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -94,6 +107,9 @@ I'm an **AI/ML Engineer** based in Ahmedabad, India, building end-to-end intelli
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
